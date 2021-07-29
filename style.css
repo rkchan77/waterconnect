@@ -237,12 +237,7 @@ h4 {
     top: -22px;
     left: -0.1px;
   }
-  
-  @keyframes drip {
-      to {
-        top: 190px;
-      }
-  }
+
 
     .flip-box {
       background-color: transparent;
